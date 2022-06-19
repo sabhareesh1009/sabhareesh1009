@@ -5,11 +5,13 @@
 
 ## Welcome to web family🔥🔥
 
-Myself Sabhareesh Kandikonda. I am a Front End and Full Stack Web🕸 Developer, working as a Software Engineer💻 in Part Analytics.
+I am <b>Sabhareesh Kandikonda</b>, had solid 3.4 years of experience as a <b>Frontend engineer</b> and love building things❤. 
 
-## collaborate to build incredible things🙌
+working on cool product of Part Analytics which solves the problem of supply chain management for the manufacturing industries.
 
-Building cool😎 products with awesome features and exciting to solve challenging problems.
+## open to collaborate for building incredible things🙌
+
+Building cool😎 products with awesome features, always exciting to solve challenging problems and curious to learn😋.
 
 Always 💯 open for having a coffee☕ on other side😉.
 
@@ -36,7 +38,7 @@ Always 💯 open for having a coffee☕ on other side😉.
 
 
 
-## ☕ Coffee with me
+## ☕ Grab a Coffee
 
 <p align="left">
  <a href="https://www.linkedin.com/in/sabhareesh-kandikonda-4ab701194/" target="blank">
