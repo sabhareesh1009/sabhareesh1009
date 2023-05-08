@@ -5,9 +5,15 @@
 
 ## Welcome to web family🔥🔥
 
-I am <b>Sabhareesh Kandikonda</b>, had solid 3.4 years of experience as a <b>Frontend engineer</b> and love building things❤. 
+I am <b>Sabhareesh Kandikonda</b>, had solid 4+ years of experience as a <b>Frontend engineer</b> and love building things❤. 
 
-working on cool product of Part Analytics which solves the problem of supply chain management for the manufacturing industries.
+Working as a Software Engineer in Gupshup.io building amazing products enriching the conversational messaging experience😁.
+
+## Tech Skills:
+Strong in Javascript, Typescript, HTML and CSS. 
+
+Solid Experience in React.js, Next.js, GastsbyJs, Redux and Node.js.
+
 
 ## open to collaborate for building incredible things🙌
 
@@ -23,11 +29,15 @@ Always 💯 open for having a coffee☕ on other side😉.
 <img src="https://i.stack.imgur.com/PgcSR.png" alt="html" height="40" width="40" >
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" alt="css" height="40" width="40"></p>
 <p align="left">
- <img src="https://image.pngaaa.com/930/2507930-middle.png" alt="React.js" height="40" width="40">
- <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" height="40" width="40">
+
+<img src="https://cdn.thenewstack.io/media/2021/06/7c546588-nextjs.png" alt="Next.js" height="40" width="40" />
+
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYT8Q1wgJmS5C7oTy5_V3s6GgEjrfe3hN1g&usqp=CAU" alt="React.js" height="40" width="40">
+ 
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" height="40" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" height="40" width="40">
+
  <img src="https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png" alt="Matrial UI" height="40" width="40">
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="40" width="40">
 </p>
 
