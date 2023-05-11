@@ -12,10 +12,11 @@ Working as a Software Engineer in Gupshup.io building amazing products enriching
 ## Tech Skills:
 Strong in Javascript, Typescript, HTML and CSS. 
 
-Solid Experience in React.js, Next.js, GastsbyJs, Redux and Node.js.
+Solid Experience in React.js, Next.js, Gastsby.js and Node.js.
 
+Tools & other technologies: Redux, React query, Zustand, Tailwind CSS, Material UI, Jest, Unit testing(React testing library and Enzyme), CI/CD(Gitlab & AWS), Git and SVN.
 
-## open to collaborate for building incredible things🙌
+## Open to collaborate for building incredible things🙌
 
 Building cool😎 products with awesome features, always exciting to solve challenging problems and curious to learn😋.
 
@@ -57,8 +58,6 @@ Always 💯 open for having a coffee☕ on other side😉.
  <a href="https://twitter.com/SabhareeshC" target="blank">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="sabhareeshC" height="40" width="40" />
  </a>
- <a href="https://www.instagram.com/sabhareesh_cheers/" target="blank">
-  <img src="http://batlab.web.unc.edu/wp-content/uploads/sites/10162/2019/06/instagram-png-instagram-png-logo-1455.png" alt="sabhareesh_cheers" height="40" width="40" />
  </a></p>
 
 
