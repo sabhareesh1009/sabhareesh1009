@@ -5,9 +5,9 @@
 
 ## Welcome to web family🔥🔥
 
-I am <b>Sabhareesh Kandikonda</b>, had solid 5+ years of experience as a <b>Frontend engineer</b> and love building things❤. 
+Senior Frontend Engineer | React.js | Next.js | TypeScript | Javascript | Node.js | GraphQL
 
-Working as a Software Engineer in Gupshup.io building amazing products enriching the conversational messaging experience😁.
+Frontend engineer with 6+ years of experience building and scaling high-performance web applications. Led the development of Gupshup’s Converse platform, implementing micro frontend architecture that scaled to over 1000 enterprise customers and boosted Lighthouse performance scores by 40–50%. Strong expertise in React.js, Next.js, TypeScript, JavaScript, and modern frontend tooling. Passionate about clean architecture, performance optimization, and contributing to fast-paced product teams.
 
 ## Tech Skills:
 Strong in Javascript, Typescript, HTML and CSS. 
