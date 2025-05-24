@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1559027615-5f44b9fb1e9f?auto=format&fit=crop&w=1650&q=80" width="100%" alt="Modern frontend development banner" />
+
 </p>
 
 # Hello folks! 👋
