@@ -8,7 +8,7 @@
 
 **Senior Frontend Engineer • React.js • Next.js • TypeScript • JavaScript • Node.js • GraphQL**
 
-I’m a frontend engineer with **6+ years** of experience designing and scaling high‑performance web applications. At **Gupshup** I led the development of the **Converse** platform, introducing a micro‑frontend architecture that now serves **2 000+ enterprise customers** and lifted Lighthouse scores by **40 – 50 %**. I thrive on clean architecture, performance optimisation, and fast‑paced product teams.
+Frontend engineer with 6+ years of experience building and scaling high-performance web applications. Led the development of Gupshup’s Converse platform, implementing micro frontend architecture that scaled to over 1000 enterprise customers and boosted Lighthouse performance scores by 40–50%. Strong expertise in React.js, Next.js, TypeScript, JavaScript, and modern frontend tooling. Passionate about clean architecture, performance optimization, and contributing to fast-paced product teams.
 
 ---
 
